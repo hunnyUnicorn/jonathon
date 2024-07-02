@@ -4,7 +4,7 @@ export const NAME = FIRST_NAME + ' ' + LAST_NAME;
 export const EMAIL = 'jntwall@outlook.com';
 export const PHONE = '+1 727 637 0314'
 
-export const DESIGNATION = `Software Engineer | React. Node.js, AWS, GCP, Go, .NET | Animal Lover | Coding by Day, Bodybuilding by Night`;
+export const DESIGNATION = `Software Engineer | React, Node.js, AWS, GCP`;
 
 export const DETAILS = {
   Address: 'Buffalo, NY, 14214',
@@ -20,6 +20,14 @@ export const SKILLS = [
   {
     title: 'NodeJS',
     level: '80%',
+  },
+  {
+    title: 'AWS',
+    level: '90%',
+  },
+  {
+    title: 'GCP',
+    level: '70%',
   },
   {
     title: 'Golang',
@@ -44,14 +52,6 @@ export const SKILLS = [
   {
     title: 'Python',
     level: '60%',
-  },
-  {
-    title: 'AWS',
-    level: '90%',
-  },
-  {
-    title: 'GCP',
-    level: '70%',
   },
 ];
 

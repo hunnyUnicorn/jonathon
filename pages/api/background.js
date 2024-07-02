@@ -17,7 +17,7 @@ const background = [
                 title: 'Vention',
                 role: 'Senior Full Stack Developer',
                 url: 'https://ventionteams.com/',
-                desc: 'As a frontend developer, I use React, Next & JavaScript to build user interfaces for web applications.',
+                desc: '',
                 year: '09/2020 - Present',
                 location: 'New York, NY'
             },
@@ -26,7 +26,7 @@ const background = [
                 title: 'Coalesce',
                 role: 'Full Stack Developer',
                 url: 'http://www.coalesce.nyc/',
-                desc: 'As an Internee, I learned how to use React & JavaScript to build interactive websites.',
+                desc: '',
                 year: '03/2014 - 09/2020',
                 location: 'New York, NY'
             },
@@ -35,7 +35,7 @@ const background = [
                 title: 'Saritasa',
                 role: 'Software Developer',
                 url: 'https://www.saritasa.com/',
-                desc: "I work there as a PHP developer, there I learned how to do CRUD'S operations in PHP, also I worked on Firebase",
+                desc: "",
                 year: '11/2012 - 02/2014',
                 location: 'New York, NY'
             },

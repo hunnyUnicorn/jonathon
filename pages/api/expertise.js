@@ -1,28 +1,28 @@
 const expertise = [
     {
         id: 0,
-        title: 'Full Stack Development',
-        desc: 'I am a skilled MERN stack developer with extensive experience in building robust web applications using MongoDB, Express.js, React.js, and Node.js. I possess a strong understanding of server-side rendering, API integration, and database management. With my expertise, I can deliver dynamic and efficient web solutions tailored to meet the unique requirements of clients.',
+        title: 'Frontend Development',
+        desc: 'With over a decade of experience in frontend development, I specialize in creating responsive, intuitive, and visually appealing user interfaces. Proficient in HTML, CSS, JavaScript, I have extensive experience with modern frameworks such as React, Angular, and Vue.js. My expertise lies in transforming complex design concepts into functional, user-friendly applications, ensuring cross-browser compatibility and optimizing performance. I am adept at using tools like Webpack, Babel, and Gulp to streamline develoment workflows, and I am passionate about staying current with the latest industry trends and best practices.',
     },
     {
         id: 1,
-        title: 'Scrum and Jira',
-        desc: "As a developer, I'm proficient in Jira and Scrum methodologies. I use Jira to simplify project management tasks like task assignment, prioritization, and progress tracking. Scrum has improved my teamwork, utilizing daily stand-ups, sprint planning, and retrospectives. My expertise ensures high-quality software products are delivered promptly.",
+        title: 'Backend Development',
+        desc: 'My backend development skills complement my frontend expertise, allowing me to build robust, scalable, and secure server-side applications. I am proficient in Node.js, Golang, .Net, and Java, and have hands-on experience with databases such as MongoDB, MySQL, and PostgreSQL. I excel at creating RESTful APIs, implementing authentication and authorization mechanisms, and ensuring data integrity and security. My ability to understand and manage the full stack enables me to develop end-to-end solutions that are efficient and maintainable.'
     },
     {
         id: 2,
-        title: 'Designing (UI/UX)',
-        desc: 'I am proficient in using design software such as Figma, Adobe XD, and Adobe Illustrator. Through participating in hackathons and freelance work, I have gained practical experience in UI/UX design and graphic design. Designing is my passion, and it has allowed me to continue to develop my creative skills and grow in the field.',
+        title: 'System Architecture & Design',
+        desc: 'With a strong foundation in microservices architecture, I design scalable and resilient systems using Docker and Kubernetes for containerization. My expertise in cloud computing involves leveraging AWS, Azure, and Google Cloud to create highly available and fault-tolerant solutions, optimizing resources for performance and cost-effectiveness.',
     },
     {
-        id: 3,
-        title: 'Github',
-        desc: "GitHub is essential for version control and collaboration. Its intuitive interface and features like pull requests and issue tracking simplify the process. Continuous integration ensures up-to-date code. GitHub is vital to my success as a developer.",
+        id: 2,
+        title: 'Agile Methodologies',
+        desc: 'With extensive experience working in Agile environments, I am proficient in Scrum and Kanban methodologies. I have a proven track record of collaborating effectively with cross-functional teams, including developers, designers, product managers, and QA engineers. My expertise in Agile practices ensures that projects are delivered on time and within scope, with continuous improvement and adaptability being key aspects of my workflow. I am skilled at breaking down complex tasks into manageable user stories, prioritizing work, and conducting regular sprint reviews and retrospectives.',
     },
     {
-        id: 4,
-        title: 'Open Source Contributor',
-        desc: "Open Source is the future. I usually take some time on weekend and contribute into opensource project. It gives me opportunity to learn from best developer's practices and also gives me a chance to help others and contribute into the community for the good.",
+        id: 2,
+        title: 'DevOps and Continuous Integration',
+        desc: 'Understanding the importance of efficient development workflows, I have developed strong skills in DevOps and Continuous Integration/Continuous Deployment (CI/CD) practices. I am proficient with tools such as Jenkins, GitLab CI, and Docker, which allow me to automate testing, deployment, and monitoring processes. My experience with cloud platforms like AWS and Azure enables me to manage scalable infrastructure, ensuring high availability and performance. By implementing CI/CD pipelines, I help teams deliver high-quality software at a faster pace, reducing time-to-market and increasing reliability.',
     },
 ]
 
